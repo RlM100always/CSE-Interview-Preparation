@@ -40,6 +40,19 @@ A curated list of high-quality resources for acing computer science interviews. 
 
 ---
 
+## 🖥️ Operating Systems 
+
+Operating Systems (OS) is a foundational topic in computer science interviews, covering processes, threads, memory management, scheduling, and more. Below is an enhanced list of high-quality resources to help you master OS concepts and excel in interviews, with updated ratings and diverse learning formats.
+
+| Resource Name | Link | Type | Rating |
+| -- | -- | -- | -- |
+| Top 100+ Operating System Interview Questions – GeeksforGeeks | [Visit 🔗](https://www.geeksforgeeks.org/operating-systems/operating-systems-interview-questions/) | Question & Answer | ★ ★ ★ ★ ★ |
+| 40+ Operating System Interview Questions – InterviewBit | [Visit 🔗](https://www.interviewbit.com/operating-system-interview-questions/) | Question & Answer | ★ ★ ★ ★ ★ |
+| Most Asked Operating System Interview Questions – takeUforward | [Visit 🔗](https://takeuforward.org/operating-system/most-asked-operating-system-interview-questions) | Question & Answer | ★ ★ ★ ★ ★ |
+| Complete Operating Systems in 1 Shot (With Notes) – YouTube | [Watch 🔗](https://www.youtube.com/watch?v=3obEP8eLsCw) | Video Lecture | ★ ★ ★ ★ ★ |
+| 12 Must-Know Operating System Concepts for Top MNC Interviews – Medium | [Read 🔗](https://taruntelang.medium.com/12-must-know-operating-system-concepts-for-top-mnc-interviews-534014906527) | Theoretical | ★ ★ ★ ★ |
+
+
 ## 🌐 Networking
 
 
@@ -50,6 +63,8 @@ A curated list of high-quality resources for acing computer science interviews. 
 | Networking Questions – InterviewBit                | [Visit 🔗](https://www.interviewbit.com/networking-interview-questions/)                   |Question & Answer |
 
 ---
+
+
 
 ## 🧱 Object-Oriented Programming (OOP)
 
